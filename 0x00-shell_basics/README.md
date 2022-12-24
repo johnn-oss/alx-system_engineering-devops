@@ -1,1 +1,1 @@
-This is a README.md file
+This is script will print the current working directory
